@@ -1,9 +1,7 @@
-# GDGPR Activity
-
-## Participants
+Rakshitha S P
 
 | Name   | USN        |
-|--------|------------|
+|Rakshitha S P|1TU24AI029|
 | Suhas A| 1DA22CS165 |
 | Sujan P| 1DA22CS167 |
 | Sharan Reddy M| 1DA22CS145|
